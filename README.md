@@ -12,4 +12,6 @@
 ![image](https://user-images.githubusercontent.com/53381276/190838285-44284526-ea09-4035-8008-7e7b2fc13de4.png)
 ## Activity6
 Link to EP repo: https://github.com/EmmaZhao0413/ECE444-F2022-EP.git
+## Activity7
+![image](https://user-images.githubusercontent.com/53381276/190856703-0f31991c-2c53-4eff-af9b-87369799fd2f.png)
 
