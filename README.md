@@ -8,7 +8,6 @@
 ## Activity4
 Link to repo: https://github.com/wendywang3315/ECE444-F2022-Lab1.git
 ![image](https://user-images.githubusercontent.com/53381276/190864380-db55448e-6fde-49d8-886a-6d6c828983db.png)
-![image](https://user-images.githubusercontent.com/53381276/190855671-30b323ae-ee79-4fbb-8e39-85b4d5f2d55d.png)
 ![image](https://user-images.githubusercontent.com/53381276/190864151-40e8f238-1b52-48e9-bb46-0d66fb832e41.png)
 ## Activity5
 ![image](https://user-images.githubusercontent.com/53381276/190838285-44284526-ea09-4035-8008-7e7b2fc13de4.png)
