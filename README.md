@@ -1,5 +1,3 @@
-<<<<<<< 8844ef83ca661b5a295f64c8cb462927e4575187
-Zetong Zhao
-=======
 # Zetong Zhao
->>>>>>> Create README.md
+Activity1
+![image](https://user-images.githubusercontent.com/53381276/190836319-e1098307-ca91-40f9-9ab9-5f04e80f23e4.png)
