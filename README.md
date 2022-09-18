@@ -14,4 +14,8 @@ Link to repo: https://github.com/wendywang3315/ECE444-F2022-Lab1.git
 ## Activity6
 Link to EP repo: https://github.com/EmmaZhao0413/ECE444-F2022-EP.git
 ## Activity7
-![image](https://user-images.githubusercontent.com/53381276/190856703-0f31991c-2c53-4eff-af9b-87369799fd2f.png)
+![image](https://user-images.githubusercontent.com/53381276/190883847-fdfbc044-82b7-4a52-aff0-cfd71f2c129d.png)
+![image](https://user-images.githubusercontent.com/53381276/190883789-82e42e35-ea92-4b6e-b48d-02ef996d34ec.png)
+## Activity8
+![image](https://user-images.githubusercontent.com/53381276/190884388-551463cc-ae13-4dc2-b9f8-4e835d524593.png)
+![image](https://user-images.githubusercontent.com/53381276/190884334-2d488a77-2a93-43dd-bb7b-f52aa7e83eb7.png)
